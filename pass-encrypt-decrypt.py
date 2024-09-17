@@ -47,9 +47,6 @@ def main():
                     print('[ERROR] Password can\'t be empty')
                 else:
                     break
-                print('\nKeyboard Interuption')
-                print('Exiting...')
-                sys.exit()
 
             # Validate file name
             while True:
